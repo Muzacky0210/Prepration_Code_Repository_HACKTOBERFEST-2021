@@ -56,7 +56,7 @@ In the interest of fostering an open and welcoming environment, we as contributo
 This Code of Conduct is adapted from the Contributor Covenant, version 1.4, available at [https://www.contributor-covenant.org/version/1/4/code-of-conduct.html]
 
 For answers to common questions about this code of conduct, see [https://www.contributor-covenant.org/faq]
-
+hacktoberfest2021
 
 <p align = "center"><img src = "https://media.giphy.com/media/j1Xyt3DHfJcmk/giphy.gif" width = 30%></p>
 
